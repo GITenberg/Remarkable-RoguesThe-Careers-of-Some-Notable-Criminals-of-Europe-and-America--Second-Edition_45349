@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '43235'
     url: http://www.gutenberg.org/2009/agents/43235
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45349#Remarkable-RoguesThe-Careers-of-Some-Notable-Criminals-of-Europe-and-America--Second-Edition
 gutenberg_issued: '2014-04-08'
 gutenberg_type: Text
 identifiers:
